@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-fileupload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/robisemicolon/nodejs-fileupload",
+  "author": "Hadi Hidayat Hammurabi <didikipb007@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  }
+}
